@@ -27,6 +27,11 @@
     "url": "https://github.com/MediaComem/test-value-generator/issues"
   },
   "homepage": "https://github.com/MediaComem/test-value-generator#readme",
+  "files": [
+    "index.js",
+    "LICENSE.txt",
+    "README.md"
+  ],
   "devDependencies": {
     "babel-plugin-istanbul": "^4.1.5",
     "babel-register": "^6.26.0",
