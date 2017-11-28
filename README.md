@@ -3,6 +3,7 @@
 Utilities to generate incremental and unique values in automated tests.
 
 [![npm version](https://badge.fury.io/js/test-value-generator.svg)](https://badge.fury.io/js/test-value-generator)
+[![Dependency Status](https://gemnasium.com/badges/github.com/MediaComem/test-value-generator.svg)](https://gemnasium.com/github.com/MediaComem/test-value-generator)
 [![Build Status](https://travis-ci.org/MediaComem/test-value-generator.svg?branch=master)](https://travis-ci.org/MediaComem/test-value-generator)
 [![Coverage Status](https://coveralls.io/repos/github/MediaComem/test-value-generator/badge.svg?branch=master)](https://coveralls.io/github/MediaComem/test-value-generator?branch=master)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.txt)
