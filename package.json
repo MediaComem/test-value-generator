@@ -1,6 +1,6 @@
 {
   "name": "test-value-generator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Utility functions to generate incremental or unique values in automated tests.",
   "main": "index.js",
   "scripts": {
